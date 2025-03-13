@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WangYunJie66
 - 👀 I’m interested in stats & python
 - 🌱 I’m currently learning stats & economics
-- 📫 How to reach me qq632580052
+- 📫 How to reach me wang.yunj@outook.com
 - ⚡ Fun fact: noting
 
 <!---
